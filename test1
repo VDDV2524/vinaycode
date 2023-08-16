@@ -1,0 +1,10 @@
+#!/bin/bash
+echo " enter your number"
+read number
+echo " your entered number is"
+if [ $number -ge 18 ]
+then
+echo " your are eligible to vote"
+else
+echo " you are not eligible"
+fi
