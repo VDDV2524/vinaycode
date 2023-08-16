@@ -4,7 +4,7 @@ read number
 echo " your entered number is"
 if [ $number -ge 18 ]
 then
-echo " your are eligible to vote"
+echo " your are eligible to  cast vote"
 else
 echo " you are not eligible to vote"
 fi
